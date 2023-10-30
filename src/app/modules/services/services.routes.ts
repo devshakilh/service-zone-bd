@@ -16,7 +16,7 @@ router.get('/:id', ServiceController.getByIdFromDB);
 
 router.patch(
   '/:id',
-  auth(ENUM_USER_ROLE.ADMIN),
+  // auth(ENUM_USER_ROLE.ADMIN),
   ServiceController.updateIntoDB
 );
 router.delete(
