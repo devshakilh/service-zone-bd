@@ -45,7 +45,7 @@ Before you can run this service, you need to have the following software and ser
 1. Clone the repository:
 
    ```bash
-   https://github.com/f4faysal/service-booking-management-core-service.git
+   https://githubervice.git
    ```
 
 2. Change into the project directory:
