@@ -51,7 +51,7 @@ Before you can run this service, you need to have the following software and ser
 2. Change into the project directory:
 
    ```bash
-   cd service-booking-management-core-service
+   cd service-zone
    ```
 
 3. Install dependencies:
