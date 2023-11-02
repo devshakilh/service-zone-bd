@@ -51,13 +51,15 @@ Before you can run this service, you need to have the following software and ser
 2. Change into the project directory:
 
    ```bash
-   cd service-zone
+   cd service-zone bd
    ```
 
 3. Install dependencies:
 
    ```bash
    npm install
+   or
+   yarn
    ```
 
 4. Set up your environment variables, such as database connection details and JWT secret, in a `.env` file.
