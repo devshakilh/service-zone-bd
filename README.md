@@ -3,6 +3,9 @@
 
 Service Booking Management Core Service is a backend application designed to manage service bookings, user profiles, and administrative operations. This service is built using Next.js, Prisma, PostgreSQL, JWT (JSON Web Tokens), and other technologies
 
+- Service-Xone-BD Front-End: [Live Site](https://service-xone-bd.vercel.app/)
+- Service-Xone-BD Dashboard:[ Admin Dashboard](https://service-zone-bd-dashboard.vercel.app/)
+- Service-Xone-BD Frontend: [Code Link](https://github.com/devshakilh/service-xone-bd_frontend?tab=readme-ov-file)
 
 ## Table of Contents
 
