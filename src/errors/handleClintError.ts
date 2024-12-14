@@ -1,3 +1,4 @@
+
 import { Prisma } from '@prisma/client';
 import { IGenericErrorMessage } from '../interfaces/error';
 
