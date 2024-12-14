@@ -1,3 +1,4 @@
+
 import express from 'express';
 
 import { AuthRouter } from '../modules/auth/user.routes';
@@ -54,3 +55,4 @@ const moduleRoutes = [
 
 moduleRoutes.forEach(route => router.use(route.path, route.routes));
 export default router;
+
